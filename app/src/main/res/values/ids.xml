@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rd_btnc" type="id">Celcius</item>
+    <item name="rd_btnf" type="id">Fahrenheit</item>
+    <item name="tv_ans" type="id">answer</item>
+</resources>

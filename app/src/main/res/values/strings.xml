@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempApp</string>
+    <string name="text_num" />
+    <string name="et_temp">Enter the Temperature</string>
+    <string name="rb_btnc">Celcius</string>
+    <string name="rb_btnf">Fahrenhite</string>
+    <string name="btn_calc">Calculate</string>
+</resources>
